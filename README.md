@@ -10,3 +10,6 @@ FrontEnd: Vue.js 3
 IDE: VScode
 
 DB:Oracle 19c
+
+
+Spring Boot, vue.js를 활용한 데이터 read 기능 연습
