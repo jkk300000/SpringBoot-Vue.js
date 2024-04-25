@@ -12,7 +12,7 @@ BackEnd: SpringBoot 2.6.8 /Maven -4.0.0
 
 FrontEnd: Vue.js 3
 
-IDE: VScode
+IDE: VScode, IntelliJ 
 
 DB:Oracle 19c
  
